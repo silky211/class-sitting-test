@@ -1,1 +1,0 @@
-document.addEventListener('DOMContentLoaded', () => { document.getElementById('app').textContent = '앱이 로드되었습니다!'; });
