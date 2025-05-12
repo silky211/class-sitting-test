@@ -1,1 +1,0 @@
-document.addEventListener('DOMContentLoaded', () => { document.getElementById('app').textContent = '스크립트 로딩됨'; });
